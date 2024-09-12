@@ -1,0 +1,6 @@
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd" >
+<log4j:configuration debug="false" xmlns:log4j="log4j.dtd">
+    ...
+    <logger name="com.baeldung.log4j.NoAppenderExample" />
+    ...
+</log4j:configuration>
