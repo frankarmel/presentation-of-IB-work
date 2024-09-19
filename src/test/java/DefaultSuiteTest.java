@@ -22,9 +22,7 @@ public class DefaultSuiteTest {
     }
 
     @Test
-    public void test1() {
-        // Test name: test1
-        // Step # | name | target | value
+    public void explorationtest() {
         // 1 | open |
         driver.get("https://www.deepl.com/fr/translator");
         // 2 | scroll to top |
